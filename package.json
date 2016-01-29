@@ -1,0 +1,25 @@
+{
+  "name": "polyhedra",
+  "version": "1.0.0",
+  "description": "JSON of The Encyclopedia of Polyhedra",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finnp/polyhedra.git"
+  },
+  "keywords": [
+    "polyhedra",
+    "solid",
+    "polyhedron",
+    "hart"
+  ],
+  "author": "",
+  "license": "SEE LICENSE IN COPYRIGHT",
+  "bugs": {
+    "url": "https://github.com/finnp/polyhedra/issues"
+  },
+  "homepage": "https://github.com/finnp/polyhedra#readme"
+}
