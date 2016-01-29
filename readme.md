@@ -8,7 +8,7 @@ in on npm.
 
 ## Example
 
-```
+```js
  var polyhedra = require('polyhedra')
    // polyhedra has the attributes: antiprisms, archimedean, johnson, platonic, prisms
   console.log(polyhedra.platonic.cube)
