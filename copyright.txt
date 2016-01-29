@@ -1,0 +1,19 @@
+The data for the polyhedra is copyrighted by George W. Hart.
+
+Here is a copy of the original copyright text:
+
+All the text and 2D images of Virtual Polyhedra are copyright 1996, 1997, 1998,
+1999 by George W. Hart, with all rights reserved. They may not be reproduced in
+any form without my expressed written permission, except for the incidental
+reproduction which is inherent in your real-time viewing (and local caching)
+of the information with a web browser.
+However, upon request, I will likely grant reproduction permission for
+noncommercial purposes. You can send me email at george@georgehart.com
+
+An exception is the collection of individual *.wrl files which contain the
+mathematical description of each polyhedron. Because these contain mathematical
+information, they may be of use to others with an interest in polyhedra. They
+may be reproduced and used for noncommercial purposes. Note that a written
+comment to this effect is already present in each of the data files.
+
+Source:  http://www.georgehart.com/virtual-polyhedra/copyright.html
