@@ -3,5 +3,5 @@ module.exports = {
   archimedean: require('./data/archimedean.json'),
   johnson: require('./data/johnson.json'),
   platonic: require('./data/platonic.json'),
-  prisms: require('./prisms.json')
+  prisms: require('./data/prisms.json')
 }
